@@ -14,8 +14,6 @@ Game Over Image - Just Stickers
 Game Over Image - Just Stickers : Just Stickers
 
 ## Video Preview
-<img src='https://imgur.com/a/lYVj5LI' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img href="https://imgur.com/a/lYVj5LI" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with igmur.com
-![image](https://github.com/JaquiRamirez/jumpingSanta/assets/112433777/6147f089-424d-4a34-bed0-8b4829b00094)
-
+GIF created with igmur
